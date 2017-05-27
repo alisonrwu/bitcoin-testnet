@@ -1,6 +1,6 @@
 # Bitcoin Basics
 
-## A tutorial from Blockchain@UBC by Tayl0r... something
+## A tutorial from Blockchain@UBC by Taylor... something
 
 
 
@@ -11,10 +11,6 @@ Get testnet coins from the [faucet](https://testnet.manu.backend.hamburg/faucet)
 These Javascript files basically function as your own wallet, which Copay provides a UI for (and is much easier to manage).
 
 `npm install bitcoinjs-lib` for the [bitcoinjs-lib](https://www.npmjs.com/package/bitcoinjs-lib) dependency
-
-[bitcoinjs-lib](https://www.npmjs.com/package/bitcoinjs-lib)
-
-[bitcoinjs-lib](https://www.npmjs.com/package/bitcoinjs-lib)
 
 `node address.js` generates wallet private/public key pairs
 
